@@ -1,0 +1,5 @@
+This repository contains the source for a new type of search engine that is specialized for certain industries.
+
+### Patent pending ###
+
+This search engine allows companies to expose their content via web services or by uploading an XSD. They can define whether their content is public or private and private content requires searchers to request access. This could be ideal for EHRs between health care providers.
