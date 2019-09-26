@@ -1,5 +1,5 @@
-This repository contains the source for a new type of search engine that is specialized for certain industries.
+This repository contains the source for a new type of search engine that is specialized for healthcare.
 
 ### Patent pending ###
 
-This search engine allows companies to expose their content via web services or by uploading an XSD. They can define whether their content is public or private and private content requires searchers to request access. This could be ideal for EHRs between health care providers.
+This search engine utilizes companies that expose their content via ReST APIs. After registering and verifying their domain, they can upload a Swagger doc that defines their APIs. Standard ReST or FHIR supported.
